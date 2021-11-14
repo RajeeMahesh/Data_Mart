@@ -1,5 +1,6 @@
 # Data_Mart
 Marketing and Sales Analytics
+Casestudy link : https://8weeksqlchallenge.com/case-study-5/
 
 Data Mart is Danny’s latest venture and after running international operations for his online supermarket that specialises in fresh produce - I am helping him to analyse his sales performance.
 
